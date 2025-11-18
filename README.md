@@ -36,8 +36,9 @@ Dockerhub Image:
 
 
 ArgoCD application Health:
-<img width="1440" height="855" alt<img width="1438" height="855" alt="Screenshot 2025-11-18 at 12 50 35 PM" src="https://github.com/user-attachments/assets/4d37828f-2940-41c5-a180-313e0b500095" />
-="Screenshot 2025-11-18 at 12 50 44 PM" src="https://github.com/user-attachments/assets/f8bde715-d81f-4589-be0c-9002c137b7fe" />
+<img width="1440" height="855" alt="Screenshot 2025-11-18 at 12 50 44 PM" src="https://github.com/user-attachments/assets/660c88ad-b121-4245-9cbf-88f2a2c65160" />
+<img width="1438" height="855" alt="Screenshot 2025-11-18 at 12 50 35 PM" src="https://github.com/user-attachments/assets/585321f8-32c8-4ce9-b6c8-44351ffadfb5" />
+
 
 
 
@@ -63,3 +64,4 @@ Website:
 
 To run website:
 https://redefinee.netlify.app/
+
